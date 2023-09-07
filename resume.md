@@ -3,7 +3,8 @@ Jason Wright
 
 wrightjd5@appstate.edu
 
-######Student
+
+###### Student
 ###### Department of Geological and Environmental Sciences
 ###### Appalachian State University
 
