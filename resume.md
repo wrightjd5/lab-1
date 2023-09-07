@@ -5,6 +5,9 @@ wrightjd5@appstate.edu
 
 ###### Student
 ###### Department of Geological and Environmental Sciences
+[Department of Geological and Environmental Sciences](https://earth.appstate.edu/)
+
+<img src="https://www.appstate.edu/~heckertab/images/appgeo.jpg"/>
 ###### Appalachian State University
 
 Summary
@@ -38,6 +41,4 @@ Training
 -ENVI
 
 
-[Department of Geological and Environmental Sciences](https://earth.appstate.edu/)
 
-<img src="https://www.appstate.edu/~heckertab/images/appgeo.jpg"/>
