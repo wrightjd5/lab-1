@@ -1,15 +1,14 @@
 Jason Wright
------------
+------------
 
 wrightjd5@appstate.edu
 
-
-###### Student
+######Student
 ###### Department of Geological and Environmental Sciences
 ###### Appalachian State University
 
 Summary
-----------
+---------
 
 Senior Environmental Science student with a concentration in Earth Systems, Minor in Geology & Geography, Certificate in GIS. 
 
@@ -23,13 +22,21 @@ Appalachian State University
 Training
 ---------
 -ArcGIS
+
 -RStudio
+
 -MATLAB
+
 -Surfer
+
 -Excel
+
 -ArcPro
+
 -QGIS
+
 -ENVI
+
 
 [Department of Geological and Environmental Sciences](https://earth.appstate.edu/)
 
