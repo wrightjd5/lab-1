@@ -1,22 +1,33 @@
-Jason Wright
-=======
 
+##Jason Wright
+wrightjd5@appstate.edu
 ####Student
-##### Department Of Envrionmental Science and Geology
-##### Appalachian State University
+###### Department of Geological and Environmental Sciences
+###### Appalachian State University
 
-Expertise
----------
+Summary
+----------
+
+Senior Environmental Science student with a concentration in Earth Systems, Minor in Geology & Geography, Certificate in GIS. 
+
 
 Education
----------
+----------
+Appalachian State University
+    Environmental Science Major - Earth Systems
+    Fall 2024
 
 Training
 ---------
+-ArcGIS
+-RStudio
+-MATLAB
+-Surfer
+-Excel
+-ArcPro
+-QGIS
+-ENVI
 
-Professional Experience
----------
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg"/>
-<img src="Images/OIP.jpg"width=100/>
+[Department of Geological and Environmental Sciences](https://earth.appstate.edu/)
 
-[Department of Geography and Planning](https://geo.appstate.edu).
+<img src="https://www.appstate.edu/~heckertab/images/appgeo.jpg"/>
