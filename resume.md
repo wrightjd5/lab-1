@@ -37,7 +37,8 @@ Training
 
 -ENVI
 
+<img src="https://www.appstate.edu/~heckertab/images/appgeo.jpg"/>
+
 [Department of Geological and Environmental Sciences](https://earth.appstate.edu/)
 
-<img src="https://www.appstate.edu/~heckertab/images/appgeo.jpg"/>
 
